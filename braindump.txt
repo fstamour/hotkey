@@ -1,0 +1,19 @@
+Chercher sur internet, ya un script AHK qui permet de récupérer une fenêtre fermée
+	Lorsqu'on la ferme, elle est cachée 60 sec avant de vrm se fermée.
+	
+AHK:
+
+	Raccourci pr créer nouveau dossier/ *.txt
+	Wizard pr plein de type de fichier
+	(à mettre dans le menu contextuel 
+	
+	Historique du clipboard
+	
+	Utilitaire de conversion de fichier...
+	Comparaison de fichier ( & dossier )
+	Launcher (jeux script, etc. )
+	
+	vrm
+	bcp
+	fct
+	tjrs
