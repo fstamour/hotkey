@@ -1,0 +1,5 @@
+
+* How I created the list of key names
+
+wget https://github.com/stumpwm/cl-xkeysym/blob/master/keysyms.lisp
+cat keysyms.lisp | grep define-keysym | sed -nre 's/^.*"(.*)".*$/\1/p' > key-names.txt
